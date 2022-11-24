@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c as o,d as e}from"./app.228328a8.js";const n={},r=e("p",null,[e("strong",null,"\u81EA\u884C\u767E\u5EA6")],-1),c=[r];function _(l,a){return t(),o("div",null,c)}const f=s(n,[["render",_],["__file","revise-dns-host.html.vue"]]);export{f as default};
