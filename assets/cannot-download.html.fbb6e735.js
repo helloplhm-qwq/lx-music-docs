@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as e,c as t,a as n}from"./app.00b3798f.js";const c={},a=n("p",null,"\u6839\u672C\u6CA1\u6709",-1),_=[a];function s(r,l){return e(),t("div",null,_)}const i=o(c,[["render",s],["__file","cannot-download.html.vue"]]);export{i as default};
